@@ -149,7 +149,3 @@ API: health/readiness and upload-to-analysis smoke flow passed
 - [`frontend`](frontend): React/Vite dashboard.
 - [`tests`](tests): backend unit and API tests.
 - [`docs`](docs): architecture, limitations, and execution notes.
-
-## License and responsible use
-
-No project license has been declared yet. Dataset and document licenses remain the responsibility of the operator. CrashScope AI is experimental decision-support software, not a certified safety system, forensic authority, or legal-liability engine.
