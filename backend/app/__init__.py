@@ -1,0 +1,1 @@
+"""CrashScope application package."""
